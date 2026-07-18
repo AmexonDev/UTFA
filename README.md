@@ -56,7 +56,6 @@
 ##### 1.45 If a player receives two yellow cards in a game, it is counted as a red card.
 ##### 1.46 The player who receives a red card must leave the game, and cannot play the next match in that competition.
 ##### 1.47 Players who receive a red card may be suspended for longer durations depending on the severity of the offense.
---------------------------------------------------
 ## Section 2 - League
 ### Signing Players
 ##### **2.01 Leaving the league while on a team will result in a gameban when rejoined.**
@@ -98,7 +97,6 @@ If a team exceeds the maximum player count, their most recent signing will be vo
 ##### D3 - No limit for C tier players. A maximum of 5 D tier players. Players above C or under D tier are not allowed in this division.
 ##### D4 - No limit for D or E tier players. Players above the D tier are not allowed in this division.
 ##### 2.28 Players who are unranked are not allowed to sign to a team.
---------------------------------------------------
 ## Section 3 - Fairplay
 ### Alting & Account Sharing
 ##### 3.0 Creating alternate accounts (alts) to join multiple teams, influence matches, or manipulate transfers is strictly prohibited.
@@ -106,7 +104,6 @@ If a team exceeds the maximum player count, their most recent signing will be vo
 ##### 3.2 Players or Managers aware of any alting activity and failing to report it will face penalties for concealment.
 ### Forging
 ##### 3.3 Forging evidence regarding contracts, sanctions, or staff investigations is strictly prohibited and will result in a season ban.
---------------------------------------------------
 ## Section 4 - Management
 ##### 4.0 Managers must ensure the authenticity of all of their signings. Players must be checked for but not limited to: cup tied roles, eligibility within their division
 ##### 4.1 Managers are expected to uphold professionalism, fairness, and respect toward all players and league officials.
@@ -121,7 +118,6 @@ If a team exceeds the maximum player count, their most recent signing will be vo
 ##### 4.7 A manager strike will result in a team and managerial investigation by league administration, which may lead to a sacking or team disbandment.
 ##### 4.8 Two Manager Strikes will result in the Manager being suspended from their role and handed a manager ban.
 ##### 4.9 A manager ban lasts for an entire season, if it is given mid season it expires on the same matchweek next season.
---------------------------------------------------
 ## Section 5 - Discord
 ##### Punishments may range from a mute to a ban. Multiple offenses may result in a permanent ban.
 ### Material
@@ -150,7 +146,6 @@ If a team exceeds the maximum player count, their most recent signing will be vo
 ##### 5.17 Do not request or share personal information (e.g., addresses, phone numbers, emails, age). Protect your privacy and avoid oversharing.
 ##### 5.18 Content designed to harm others’ health (e.g., earrape, epileptic images, flashing GIFs) is prohibited.
 ##### 5.19 Discord rules are subject to change at any time. Staff may apply punishments according to their well-documented handbook.
---------------------------------------------------
 ## Other
 ##### Staff decisions are final unless overturned by higher authority. 
 ##### These regulations are subject to periodic review by the league hierarchy.
