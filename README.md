@@ -40,7 +40,7 @@
 ##### 1.29 Referees and authorized streamers may be present in the private server.
 ##### 1.30 If a team fields an ineligible player for an entire leg and has prior knowledge of it, the team will get disbanded and the manager will get sanctioned.
 ##### 1.31 Exploiting in a match results in an immediate unbailable ban.
-##### 1.32 If TSW’s Administration fails to assign a Cup-Tied role, responsibility lies with Administration and a rematch may be scheduled.
+##### 1.32 If UTFA’s Administration fails to assign a Cup-Tied role, responsibility lies with Administration and a rematch may be scheduled.
 ##### 1.33 Players must screenshare in a designated voice channel with a match official present until the game starts. Or they must screen record their gameplay for the entirety of the match and send the footage after the game. If a screen recording is not sent after the match, the player's stats will be voided and they will be banned from the server until the recording is sent. If the video is not sent for an extended period of time the ban is permanent.
 ##### 1.34 Match-fixing is strictly prohibited.
 ##### 1.35 If both Manager and Assistant Manager are absent, managerial duties (substitutions, coin flips) may be temporarily delegated to a volunteer player.
@@ -142,7 +142,7 @@ If a team exceeds the maximum player count, their most recent signing will be vo
 ##### 5.15 All users must comply with Discord’s Terms of Service and Guidelines:
  https://discord.com/terms
  https://discord.com/guidelines
-##### 5.16 Participation in or discussion of raiding servers affiliated with TSW is prohibited. Attempts to facilitate raids will result in an immediate ban.
+##### 5.16 Participation in or discussion of raiding servers affiliated with UTFA is prohibited. Attempts to facilitate raids will result in an immediate ban.
 ##### 5.17 Do not request or share personal information (e.g., addresses, phone numbers, emails, age). Protect your privacy and avoid oversharing.
 ##### 5.18 Content designed to harm others’ health (e.g., earrape, epileptic images, flashing GIFs) is prohibited.
 ##### 5.19 Discord rules are subject to change at any time. Staff may apply punishments according to their well-documented handbook.
